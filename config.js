@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🤍 لَقۣۗـۙد تۣۗـۙمۣۗـۙ مۣۗـۙشۣۗـۙآهۣۗہدةّ آلَآسۣۗـۙتۣۗـۙوُريۣۗہ تۣۗـۙبۣۗـۙعۣۗـۙكۣۗـۙ مۣۗـۙنۣۗـۙ قۣۗـۙبۣۗـۙلَ آلَقۣۗـۙيۣۗہآدةّ سۣۗـۙيۣۗہفۣۗـۙ آلَقۣۗـۙآضۣۗـۙيۣۗہ*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🤍لَقۣۗـۙد تۣۗـۙمۣۗـۙ مۣۗـۙشۣۗـۙآهۣۗہدةّ آلَآسۣۗـۙتۣۗـۙوُريۣۗہ تۣۗـۙبۣۗـۙعۣۗـۙكۣۗـۙ مۣۗـۙنۣۗـۙ قۣۗـۙبۣۗـۙلَ آلَقۣۗـۙيۣۗہآدةّ سۣۗـۙيۣۗہفۣۗـۙ آلَقۣۗـۙآضۣۗـۙيۣۗہ🤍*",
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
